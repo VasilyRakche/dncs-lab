@@ -1,0 +1,18 @@
+FirstName: Vasilije
+LastName: Rakcevic
+MatriculationNumber: 219764
+AcademicYear: 2020-2021
+GitHubUrl: https://github.com/VasilyRakche/dncs-lab
+Subnets:
+    HostsA:
+        RequiredAddresses: 148
+        SubnetAddress: 192.168.1.1
+        SubnetPrefixLength: 24
+    HostsB:
+        RequiredAddresses: 197
+        SubnetAddress: 192.168.2.1
+        SubnetPrefixLength: 24
+    Hub:
+        RequiredAddresses: 480
+        SubnetAddress: 192.168.4.1
+        SubnetPrefixLength: 23
